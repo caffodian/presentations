@@ -1,0 +1,22 @@
+{
+  "name": "presentations",
+  "version": "0.0.1",
+  "description": "various presentations and things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caffodian/presentations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caffodian/presentations/issues"
+  },
+  "homepage": "https://github.com/caffodian/presentations#readme",
+  "dependencies": {
+    "cleaver": "^0.7.4"
+  }
+}
